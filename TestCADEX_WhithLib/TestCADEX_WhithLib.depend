@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1700544094 source:d:\work\programming\testcadex_whithlib\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<vector>
+	<algorithm>
+	"../TestCADEX_LIB/main.h"
+
+1700465765 d:\work\programming\testcadex_lib\main.h
+	<windows.h>
+	"curve.h"
+
+1700467342 d:\work\programming\testcadex_lib\curve.h
+	<windows.h>
+

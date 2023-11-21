@@ -1,0 +1,31 @@
+EXPORTS
+    _ZN5Curve1CEd @1
+    _ZN5Helix1CEd @2
+    _ZN5Helix2CDEd @3
+    _ZN5HelixC1Edd @4
+    _ZN5HelixC1Ev @5
+    _ZN5HelixC2Edd @6
+    _ZN5HelixC2Ev @7
+    _ZN6Circle1CEd @8
+    _ZN6Circle2CDEd @9
+    _ZN6CircleC1Ed @10
+    _ZN6CircleC1Ev @11
+    _ZN6CircleC2Ed @12
+    _ZN6CircleC2Ev @13
+    _ZN7Ellipse1CEd @14
+    _ZN7Ellipse2CDEd @15
+    _ZN7EllipseC1Edd @16
+    _ZN7EllipseC1Ev @17
+    _ZN7EllipseC2Edd @18
+    _ZN7EllipseC2Ev @19
+    _ZTI5Curve @20 DATA
+    _ZTI5Helix @21 DATA
+    _ZTI6Circle @22 DATA
+    _ZTI7Ellipse @23 DATA
+    _ZTS5Curve @24 DATA
+    _ZTS5Helix @25 DATA
+    _ZTS6Circle @26 DATA
+    _ZTS7Ellipse @27 DATA
+    _ZTV5Helix @28 DATA
+    _ZTV6Circle @29 DATA
+    _ZTV7Ellipse @30 DATA
