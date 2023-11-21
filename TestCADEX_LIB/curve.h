@@ -3,7 +3,6 @@
 
 #include <windows.h>
 
-//#define BUILD_DLL
 #ifdef BUILD_DLL
     #define DLL_EXPORT __declspec(dllexport)
 #else

@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1700466565 source:d:\work\programming\testcadex_lib\curve.cpp
+1700467382 source:d:\work\programming\testcadex_lib\curve.cpp
 	<cmath>
 	"curve.h"
 
-1700467342 d:\work\programming\testcadex_lib\curve.h
+1700545441 d:\work\programming\testcadex_lib\curve.h
 	<windows.h>
 
 1700465777 source:d:\work\programming\testcadex_lib\main.cpp
